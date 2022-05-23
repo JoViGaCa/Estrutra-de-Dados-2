@@ -1,0 +1,7 @@
+size=86 top=04
+058|Professor Xavier              |m|50|telecinese                    |(00)00000-0000|
+038|Professor Pardal              |m|70|projetos falhos               |(00)11111-1111|
+070|Professor Utonio              |m|40|ser pai                       |(00)22222-2222|
+020|Professor Girafales           |m|55|ensino basico                 |(00)33333-3333|
+*-1|Senhora Puff                  |f|45|paciencia                     |(00)44444-4444|
+023|Joao Carvalho                 |m|19|Robotica                      |(44)99999-9999|
